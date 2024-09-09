@@ -33,3 +33,11 @@ ul.hmenu {
   .active {
     background-color: rgb(12, 49, 101);
   }
+
+  body {
+    height: 100%;
+    background-image: url('Images/360_F_246551674_iZhrbUtFYFyJeosc2EwUdkTP2MLiE3nm.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
